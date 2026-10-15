@@ -1,0 +1,14 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/twisted/hyperbola",
+  "@type": "gh:Repository",
+  "gh:name": "hyperbola",
+  "gh:owner": "twisted",
+  "repolex:trackedCommit": [
+    {
+      "@id": "https://repolex.ai/r/twisted/hyperbola/commit/acadb1f2e36b251947689eb83c98d1e0471037b0",
+      "git:hexsha": "acadb1f2e36b251947689eb83c98d1e0471037b0",
+      "repolex:parseStatus": "metadata_complete"
+    }
+  ]
+}
